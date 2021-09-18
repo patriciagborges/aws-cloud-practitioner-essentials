@@ -1,2 +1,3 @@
 # aws-cloud-practitioner-essentials
-# aws-cloud-practitioner-essentials
+Treinamento para a certificação AWS
+
